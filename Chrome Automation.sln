@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chrome Automation", "Chrome Automation\Chrome Automation.pyproj", "{58DCE885-624A-44CC-B5C2-05FF9DE5E67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DCE885-624A-44CC-B5C2-05FF9DE5E67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DCE885-624A-44CC-B5C2-05FF9DE5E67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C13E9E28-024D-489A-B1E4-F274251BB99A}
+	EndGlobalSection
+EndGlobal
